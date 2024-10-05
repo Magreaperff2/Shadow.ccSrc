@@ -15,7 +15,7 @@ local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/Paupxx/Exceros-Library/main/addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = "SHADOW.CC PAID",
+    Title = "SKID PAID",
     Center = true,
     AutoShow = true,
     TabPadding = 8,
